@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <title>Sonar</title>
+  <g fill="none" stroke="#0099FF" stroke-linecap="round" stroke-width="3">
+    <path d="M 12 12 A 5 5 0 0 1 12 22"/>
+    <path d="M 12 8 A 9 9 0 0 1 12 26"/>
+    <path d="M 12 4 A 13 13 0 0 1 12 30"/>
+  </g>
+</svg>
